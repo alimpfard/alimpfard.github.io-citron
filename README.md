@@ -1,1 +1,2 @@
-# alimpfard.github.io-citron
+# Project Citron : The Programming Language
+_Just for fun_
