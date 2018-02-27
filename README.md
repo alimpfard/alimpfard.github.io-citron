@@ -2,4 +2,4 @@
 _Just for fun_
 
 ## Just a quick taste
-Take a quick peek at [MIPS Assembly Emulator and Debugger]( http://htmlpreview.github.com/?https://alimpfard.github.io/citron-http/rendered/mips_emu.html)
+Take a quick peek at [MIPS Assembly Emulator and Debugger](https://rawgit.com/alimpfard/citron-http/blob/master/rendered/mips_emu.html)
